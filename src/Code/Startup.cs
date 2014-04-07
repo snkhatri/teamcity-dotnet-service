@@ -6,7 +6,7 @@ namespace Project
     {
         public void Configuration(IAppBuilder app)
         {
-            app.UseHandler((req, res) => res.WriteAsync("Hello "));
+            app.UseHandler((req, res) => res.WriteAsync("Hello World"));
         }
     }
 }
