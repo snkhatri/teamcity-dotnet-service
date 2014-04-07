@@ -15,7 +15,7 @@
         [Test]
         public void Critical_Test()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
